@@ -1,3 +1,3 @@
-module github.com/gvalkov/golang-evdev
+module github.com/rpirsc13/golang-evdev
 
-go 1.14
+go 1.15
